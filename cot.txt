@@ -1,0 +1,55 @@
+{
+    "question": "Which actor starred in Jerry Maguire and was born in Syracuse, NY?",
+    "answer": "Tom Cruise",
+    "reasoning": "According to the context, Tom Cruise starred in Jerry Maguire and was born in Syracuse, New York."
+    "category": "intersection"
+}
+
+{
+    "question": "How many children did Donald Trump have?",
+    "answer": "5",
+    "reasoning": "According to the context, Donald Trump had 5 children: Donald Trump Jr., Ivanka Trump, Eric Trump, Tiffany Trump, and Barron Trump."
+	  "category":"count"
+}
+{
+  "question": "Is the main hero in Final Fantasy IX named Kuja?",
+  "answer": "No",
+  "reasoning": "The main hero in Final Fantasy IX is Zidane Tribal, not Kuja."
+  "category": "yesno"
+}
+{
+    "question": "When was the first Donkey Kong arcade game released?",
+    "answer": "1981",
+    "reasoning": "The first Donkey Kong arcade game was released in 1981."
+	"category": "generic"
+}
+{
+"question": "Which movie, starring Al Jolson, is generally considered to be the first talking picture?",
+"answer": "The Jazz Singer",
+"reasoning": "According to the provided context, Al Jolson is mentioned as the star of the movie 'The Jazz Singer', which is generally considered to be the first talking picture."
+"category": "ordinal"
+}
+{
+"question": "Which movie came out first, Monsters, Inc. or Lilo and Stitch?",
+"answer": "Monsters, Inc.",
+"reasoning": "According to the provided context, Monsters, Inc. was released in 2001, while Lilo and Stitch was released in 2002."
+"category": "comparative"
+}
+{
+    "question": "Which 2000 Christopher Nolan movie does not star Leonardo DiCaprio?",
+    "answer": "Memento",
+    "reasoning": "According to the context, Christopher Nolan's filmography does not mention Leonardo DiCaprio in any of his movies, so the correct answer is Memento, a 2000 film directed by Christopher Nolan."
+	"category": "difference"
+}
+{
+    "question": "Which actress is the sister of the actor who played Peter Brand in Moneyball?",
+    "answer": "Beanie Feldstein",
+    "reasoning": "According to the context, Jonah Hill, who played Peter Brand in Moneyball, has a sibling named Beanie Feldstein, who is an actress."
+	"category": "multihop"
+}
+{
+  "question": "Which NFL quarterback has won the most Super Bowls?",
+  "answer": "Tom Brady",
+  "reasoning": "Tom Brady has won the most Super Bowls among NFL quarterbacks, with seven Super Bowl wins during his career."
+  "category": "superlative"
+}
