@@ -1,0 +1,145 @@
+**Answer-0:** Answer unavailable. (Reasoning: The provided text does not state what American author was a steamboat pilot on the Mississippi River.)
+**Answer-1:** Answer unavailable. (Reasoning: The provided text does not specify how many times Jake Gyllenhaal has been nominated for an Academy Award.  It does mention he was nominated for Best Supporting Actor.)
+**Answer-2:** Drake is older. (Reasoning: The text provides a date of birth for Drake as 1984 and The Weeknd as 1990.) 
+**Answer-3:** Donald Trump had 5 children. (Reasoning: The text states "Donald Trump number of children 5".)
+**Answer-4:** No. (Reasoning: The main hero in Final Fantasy IX is Zidane Tribal.)
+**Answer-5:** Answer unavailable. (Reasoning: While the text mentions Super Bowl XXIII and that it had a halftime show, it does not say who performed.)
+**Answer-6:** Yes. (Reasoning: There are multiple entries for the publication date of Free Guy, all in August of 2021.)
+**Answer-7:** 4. (Reasoning:  The text lists the members of the Central Powers as Ottoman Empire, Austria-Hungary, German Empire, and Kingdom of Bulgaria.) 
+**Answer-8:** Answer unavailable. (Reasoning: While the text talks about Donkey Kong 64 and other games in the franchise, it does not give the release date of the first arcade game.)
+**Answer-9:** The Jazz Singer. (Reasoning: The text talks about Al Jolson and sound films, and also states that sound film is described in the Armenian Soviet Encyclopedia, vol. 6.  This is a strong clue, as The Jazz Singer was a very important sound film starring Al Jolson.) 
+**Answer-10:** Maine. (Reasoning: The context indicates that Stephen King, the author of Misery, currently resides in Bangor, Maine.)
+
+**Answer-11:** Monsters, Inc. (Reasoning: Monsters, Inc.'s publication date was 2001 while Lilo & Stitch was released in 2002.)
+
+**Answer-12:** Yes. (Reasoning: Children of Men came out in 2006, and Avatar came out in 2009.)
+
+**Answer-13:** Yes. (Reasoning: Titanic is 194 minutes long, and Back to the Future is 115 minutes long.)
+
+**Answer-14:** Yes. (Reasoning: 2 Fast 2 Furious cost 76 million dollars to film, and The Fast and the Furious cost 38 million dollars to film.)
+
+**Answer-15:** Avatar. (Reasoning: Avatar's budget was 237 million dollars, while Training Day's budget was 45 million dollars.)
+
+**Answer-16:** Avatar. (Reasoning:  Though Titanic made more money at the box office overall, Avatar's box office numbers are much higher in its initial release and rerelease, indicating that it sold more tickets.)
+
+**Answer-17:**  No. (Reasoning: Owen Wilson is 1.8 meters tall, and while Luke Wilson's height isn't listed, we know the brothers are very close in age, and there is no indication that Luke is taller.)
+
+**Answer-18:** Martin Scorsese. (Reasoning: Martin Scorsese was born in 1942, and David Fincher was born in 1962.)
+
+**Answer-19:**  Yes. (Reasoning: George Lucas has a net worth of 5 billion dollars, while Steven Spielberg's net worth is not listed, and there is no other indicator of his financial status. ) 
+**Answer-20:** Eternal Sunshine of the Spotless Mind made less money than The Avengers. (Reasoning: The Avengers had a total box office of $1,518,812,988 whereas Eternal Sunshine of the Spotless Mind only had a total box office of $74,036,715.)
+
+**Answer-21:** Keanu Reeves is taller than Jason Statham. (Reasoning: Keanu Reeves has a height of 1.86 meters, while Jason Statham has a height of 1.78 meters.)
+
+**Answer-22:** George Clooney is taller than Brad Pitt. (Reasoning: George Clooney is 179.7 cm tall, while Brad Pitt is 180 cm tall.)
+
+**Answer-23:** Chris Evans is older than Chris Pratt. (Reasoning: Chris Evans' date of birth is June 13, 1981, while Chris Pratt's date of birth is June 21, 1979.)
+
+**Answer-24:** Anna Faris is older than Chris Evans. (Reasoning: Anna Faris' date of birth is November 29, 1976, while Chris Evans' date of birth is June 13, 1981.)
+
+**Answer-25:** Kevin Spacey is older than Morgan Freeman. (Reasoning: Morgan Freeman's date of birth is June 1, 1937, while Kevin Spacey's date of birth is July 26, 1959.)
+
+**Answer-26:** Robert Downey Jr. is older than Chris Hemsworth. (Reasoning: Robert Downey Jr.'s date of birth is April 4, 1965, while Chris Hemsworth's date of birth is August 11, 1983.)
+
+**Answer-27:** Chris Evans is older than Scarlett Johansson. (Reasoning: Chris Evan's date of birth is June 13, 1981, while Scarlett Johansson's date of birth is November 22, 1984.)
+
+**Answer-28:** Eternal Sunshine of the Spotless Mind grossed more at the box office. (Reasoning: Eternal Sunshine of the Spotless Mind grossed $74,036,715, while Moon grossed $5,009,875.)
+
+**Answer-29:** Moon came out after Eternal Sunshine of a Spotless Mind. (Reasoning: Eternal Sunshine of a Spotless Mind was released on March 9, 2004, while Moon was released on July 17, 2009.) 
+**Answer-30:** Saoirse Ronan is younger than Emma Watson. (Reasoning: Saoirse Ronan's work period started in 2003 while Emma Watson's started in 1999.)
+
+**Answer-31:** Yes, The Spy Who Loved Me came out after 1970. (Reasoning: The movie's publication date is listed as 1977-01-01T00:00:00Z.)
+
+**Answer-32:** Toy Story 2 came out first. (Reasoning: Toy Story 2's publication date is 1999 while Transformers came out in 2007.)
+
+**Answer-33:** Iron Man 2 had a higher domestic gross. (Reasoning: Iron Man 2 grossed $319,246,193 domestically, while Iron Man grossed $140,000,000.)
+
+**Answer-34:** Reese Witherspoon is younger than Drew Barrymore. (Reasoning: Reese Witherspoon's date of birth is 1976-03-22T00:00:00Z, while Will Kopelman, Drew Barrymore's ex-husband, was born in 1978.)
+
+**Answer-35:** No, The Martian came out after 2013. (Reasoning: The Martian was published in book form in 2014, and the movie adaptation came out in 2015.)
+
+**Answer-36:** Yes, Apollo 13 came out before 2000. (Reasoning: The movie's publication date is listed as 1995-06-30T00:00:00Z.) 
+
+**Answer-37:**  The provided context does not contain information about Ben Platt or Lin-Manuel Miranda's height. Therefore, I cannot answer this question. 
+
+**Answer-38:** Frozen 2 had a bigger budget. (Reasoning: Up's budget was 175 million, while Frozen 2's budget was $150,000,000.) 
+
+**Answer-39:** No, Bicentennial Man came out after 1997. (Reasoning: The movie's publication date is listed as 1999-12-17T00:00:00Z.) 
+**Answer-40:** Answer-40: Yes. (Reasoning: My Best Friend's Wedding was released on 1997-12-04T00:00:00Z and Liar Liar's Amazon Standard Identification Number is B000I9WW0Y, implying it was released around the same time as VHS was popular, the late 1990s.) 
+**Answer-41:** Answer-41: Adam Sandler has more kids. (Reasoning: Jim Carrey has 1 kid, Jane. Adam Sandler has 2 daughters, Sadie and Sunny.) 
+**Answer-42:** Answer-42: James Cameron. (Reasoning: The context provides extensive information about their award-winning films, with James Cameron having won Best Picture and Director Oscars. This suggests greater commercial success for Cameron's films.) 
+**Answer-43:** Answer-43: Clint Eastwood. (Reasoning: Although both are acclaimed directors, Michael Bay is known for high-budget action films (Transformers) often associated with larger box office revenues than Clint Eastwood's films.) 
+**Answer-44:** Answer-44: Damien Chazelle is younger. (Reasoning: Damien Chazelle was born on 1985-01-19T00:00:00Z. Sam Mendes was born on 1965-08-01T00:00:00Z.) 
+**Answer-45:** Answer-45: There are three movies in Peter Jackson's Hobbit series. (Reasoning: The context states that "The Hobbit trilogy has part(s) The Hobbit: An Unexpected Journey, The Hobbit: The Desolation of Smaug, The Hobbit: The Battle of the Five Armies". This signifies that there are 3 movies in total.) 
+**Answer-46:** Answer-46: Michael Bay directed 5 Transformers movies. (Reasoning: The context lists five movies in the Transformers series that Michael Bay directed: "Transformers, Transformers: Revenge of the Fallen, Transformers: Dark of the Moon, Transformers: Age of Extinction, Transformers: The Last Knight".) 
+**Answer-47:** Answer-47: Julia Roberts has won 1 Academy Award. (Reasoning: The text states that  "Julia Roberts award received Academy Award for Best Actress" singular, not plural, meaning one award.) 
+**Answer-48:** Answer-48: Julia Roberts has not been nominated for any Independent Spirit Awards. (Reasoning: The provided text lists many Academy Award and Golden Globe nominations and wins for Julia Roberts, but does not mention any nominations for Independent Spirit Awards.) 
+**Answer-49:** Answer-49: Angelina Jolie has not worked on any Disney movies. (Reasoning: While the context mentions Angelina Jolie's filmography, awards, and humanitarian work, it does not list any involvement with Disney films. It does, however, state that Blue Sky Studios, a Disney owned company, is located in Greenwich.) 
+**Answer-50:** The provided context doesn't contain information about how many movies Chris Farley starred in.  It does list some of his notable works, including Saturday Night Live and Tommy Boy.  \(Reasoning: I could not find the number of movies Chris Farley starred in from the given context.\)
+
+**Answer-51:** There are three Cloverfield movies: Cloverfield, 10 Cloverfield Lane, and The Cloverfield Paradox.  \(Reasoning:  The context mentions that the film series "Cloverfield" "has part(s)" Cloverfield, 10 Cloverfield Lane, and The Cloverfield Paradox.\)
+
+**Answer-52:**  Ian McShane has played Winston four times in the John Wick movies.  \(Reasoning:  The context lists "John Wick" as having the part "Ian McShane" seven times, but three of those are duplicates. This leaves four distinct entries for his role as Winston.\) 
+
+**Answer-53:** There are two 300 movies. \(Reasoning:  The context lists the movie '300' and its sequel '300: Rise of an Empire'.\)
+
+**Answer-54:**  There are three The Sandlot movies. \(Reasoning: The context mentions 'The Sandlot', its sequel 'The Sandlot 2', and a third movie, 'The Sandlot: Heading Home'.\)
+
+**Answer-55:** Meryl Streep has won three Academy Awards.  \(Reasoning: The context states "Academy Award for Best Actress winner Meryl Streep" four times, but one is a duplicate.  This leaves three wins for Meryl Streep.\)
+
+**Answer-56:** Robert De Niro appeared in one Godfather movie.  \(Reasoning: Although his name appears numerous times in the context, only "The Godfather cast member Robert De Niro" confirms his appearance in one film.  He played the younger Vito Corleone in "The Godfather Part II", but this context doesn't explicitly state that. \)
+
+**Answer-57:** There are three movies in The Divergent Series. \(Reasoning: The context states that 'The Divergent Series' 'has part(s)' Divergent, The Divergent Series: Insurgent, and The Divergent Series: Allegiant.\)
+
+**Answer-58:** The context doesn't provide information on how many People's Choice Awards the movie Rain Man won. It does list several Academy Awards that the movie won.  \(Reasoning: I could not find any information on the People's Choice Awards from the context about the movie Rain Man.\)
+
+**Answer-59:** Six actors and actresses are listed as starring in Pulp Fiction.  \(Reasoning: The context lists "Pulp Fiction cast member" followed by six names: Bruce Willis, John Travolta, Uma Thurman, Samuel L. Jackson,  Tim Roth, and Lawrence Bender.\) 
+**Answer-60:** 2. (Reasoning: The context lists Megan Fox as a cast member of the movie "Transformers", and there's no mention of her being in any of the sequels. It also mentions her notable work includes "Transformers," suggesting her association with the franchise is primarily through the first film.)
+
+**Answer-61:** 2. (Reasoning: The context mentions that "Finding Nemo" is an instance of a "media franchise" and "animated film series". It goes on to list two different "Box Office Mojo franchise ID"s for Finding Nemo, indicating there are two movies within the franchise.)
+
+**Answer-62:** 3. (Reasoning: The context lists various awards Meryl Streep has won, including three instances of "Academy Award for Best Actress" and one instance of "Academy Award for Best Supporting Actress", giving a total of 3 Oscars.)
+
+**Answer-63:** 5. (Reasoning: The context mentions that Martin Scorsese and Leonardo DiCaprio are a well-known pair in filmmaking. It lists "Martin Scorsese part of Martin Scorsese and Leonardo DiCaprio" twice and "Martin Scorsese partner in business or sport Leonardo DiCaprio" once, suggesting a collaboration of at least 5 films.)
+
+**Answer-64:** 5. (Reasoning: The context lists "Twilight" as having several parts, including "Twilight", "New Moon", "Eclipse", "Breaking Dawn", and "Midnight Sun". However, "Midnight Sun" is a retelling of "Twilight" from Edward Cullen's perspective, not a separate story in the film series. Therefore, there are 5 Twilight films.)
+
+**Answer-65:** 2. (Reasoning: The context mentions that Maggie Smith has won two different types of Academy Awards: "Academy Award for Best Supporting Actress" and "Academy Award for Best Actress". It lists her as a winner of each award twice, resulting in a total of 2 Oscars.)
+
+**Answer-66:** 10. (Reasoning: The context lists the "Fast & Furious" franchise as having parts: "The Fast and the Furious: Tokyo Drift", "2 Fast 2 Furious", "Fast & Furious", "Fast Five", "Fast & Furious 6", "Furious 7", "The Fate of the Furious", "F9", and "Fast X".  This adds up to 9 movies. The context also lists "The Fast and the Furious" as a separate movie. This brings the total to 10 movies in the franchise.)
+
+**Answer-67:** 8. (Reasoning: The context lists Harry Potter as having parts: "Harry Potter and the Philosopher's Stone", "Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban", "Harry Potter and the Goblet of Fire", "Harry Potter and the Order of the Phoenix", "Harry Potter and the Half-Blood Prince", "Harry Potter and the Deathly Hallows – Part 1", and "Harry Potter and the Deathly Hallows – Part 2". Although the last book is split into two films, there are a total of 8 movies in the series.)
+
+**Answer-68:** 9. (Reasoning: The context lists numerous Star Wars films in which Princess Leia is present, totaling 9: "Star Wars: Episode IV – A New Hope", "Star Wars: Episode V – The Empire Strikes Back", "Star Wars: Episode VI – Return of the Jedi", "Star Wars Episode VII: The Force Awakens", "Star Wars: Episode VIII – The Last Jedi", "Star Wars Episode IX: The Rise of Skywalker", "Rogue One: A Star Wars Story", "Star Wars Rebels", and "Obi-Wan Kenobi".)
+
+**Answer-69:** 6. (Reasoning: The context lists "Avengers" as having parts: "The Avengers", "Avengers: Age of Ultron", "Avengers: Infinity War", "Avengers: Endgame", "Avengers 5", and "Avengers: Secret Wars". This gives a total of 6 Avengers movies.) 
+**Answer-70:** Return of the King won 11 Oscars. (Reasoning: The context lists 11 different Academy Awards that The Lord of the Rings: The Return of the King received.)
+**Answer-71:** Drew Barrymore appeared in 1 Scream movie. (Reasoning: The context lists Drew Barrymore as a cast member for "Scream", but not for any of the sequels.)
+**Answer-72:** Cinderella has 2 stepsisters. (Reasoning:  The context explicitly names "Drizella Tremaine" and "Anastasia Tremaine" as relatives of Cinderella with the qualifier "stepsister".)
+**Answer-73:** Tom Hanks has won 2 Oscars for Best Actor. (Reasoning: The context mentions "Tom Hanks award received Academy Award for Best Actor" twice.)
+**Answer-74:** A Star is Born has been remade 3 times. (Reasoning: The context discusses four distinct versions of "A Star is Born", implying that the original was remade three times.)
+**Answer-75:** Cedric Diggory appeared in 1 Harry Potter movie. (Reasoning: While Cedric Diggory is mentioned as a character in "Harry Potter and the Cursed Child", the context specifies that he was "killed by Peter Pettigrew" in "Harry Potter and the Goblet of Fire", suggesting he only appeared in that film.)
+**Answer-76:** Memento. (Reasoning: The context asks for a 2000 Christopher Nolan film that does not star Leonardo DiCaprio. The context states that Leonardo DiCaprio won an AACTA Award for Best Actor in a Leading Role for a film that came out in 2010. Christopher Nolan directed Inception, which was released in 2010 and starred Leonardo DiCaprio. Therefore, the other 2000 film directed by Christopher Nolan, Memento, did not star Leonardo DiCaprio. )
+**Answer-77:** Tenet. (Reasoning: The context asks for a 2020 film by Christopher Nolan that does not star Matt Damon. We are given information about Matt Damon's nominations for various Academy Awards and his filmography, but no specific films or years are listed. Without a connection between Matt Damon's filmography and a 2020 Christopher Nolan film, we cannot determine the answer from the context.)
+**Answer-78:** The Empire Strikes Back. (Reasoning:  The context states that Ewoks "home world Endor", and that Endor was featured in the 1983 Star Wars movie "Return of the Jedi". The question asks for the 1980 Star Wars movie without Ewoks, which would be "The Empire Strikes Back". )
+**Answer-79:** Gandalf the Grey was not in The Lord of the Rings: The Two Towers. (Reasoning: While Gandalf appears in all three movies based on The Lord of the Rings, he dies in The Fellowship of the Ring as Gandalf the Grey and returns in The Two Towers as Gandalf the White. ) 
+**Answer-80:** Edward Scissorhands. (Reasoning: Category:Films directed by Tim Burton instance of Wikimedia category and Category:Films directed by Johnny Depp instance of Wikimedia category; however, Johnny Depp does not appear in the Tim Burton film, 'Edward Scissorhands'.) 
+**Answer-81:** Born on the Fourth of July. (Reasoning: Oliver Stone was nominated for, but did not win, a Golden Globe Award for Best Director for 'Born on the Fourth of July'.) 
+**Answer-82:** Mystic River and Letters From Iwo Jima. (Reasoning: Clint Eastwood was nominated for an Academy Award for Best Picture, but did not win, for 'Mystic River' and 'Letters From Iwo Jima'.)
+**Answer-83:** Dr. Strangelove, 2001: A Space Odyssey, A Clockwork Orange, and Barry Lyndon. (Reasoning: Stanley Kubrick was nominated for, but did not win, an Academy Award for Best Director for 'Dr. Strangelove', '2001: A Space Odyssey', 'A Clockwork Orange', and 'Barry Lyndon'.) 
+**Answer-84:** Batman Begins. (Reasoning: The 2005 Christopher Nolan movie 'Batman Begins' does not star Brad Pitt.) 
+**Answer-85:** Unbreakable. (Reasoning: The 2000 M. Night Shyamalan movie 'Unbreakable' does not star Angelina Jolie.) 
+**Answer-86:** License to Wed. (Reasoning: The 2007 Andy Fickman movie 'License to Wed' does not star John Cena.) 
+**Answer-87:** Toy Story 2. (Reasoning: Pixar's 'Toy Story 2' was released in 1999 and the first to not be released in the 1990's.) 
+**Answer-88:** Iron Man 3. (Reasoning: Iron Man 3 was the first Marvel Cinematic Universe movie to be in Phase Two, not Phase One.) 
+**Answer-89:** Terminator Salvation. (Reasoning: Arnold Schwarzenegger did not star in the Terminator movie 'Terminator Salvation'.) 
+**Answer-90:** Taxi Driver. (Reasoning: Martin Scorsese's famous 1976 movie, Taxi Driver, did not win any Oscars. This information is not explicitly given in the context but can be inferred from the list of Academy Awards for Best Picture winners, which does not include Taxi Driver.) 
+**Answer-91:** Lucille Ball. (Reasoning: Lucille Ball was a famous American red-haired TV star. Although not explicitly mentioned in the text, she was considered for the role of Scarlett O'Hara. This is a widely known fact about the casting of Gone With the Wind.)
+**Answer-92:**  Annette Bening.  (Reasoning:  We are told that the movie *American Beauty* was nominated for a Best Actress Academy Award.  We know that Annette Bening was nominated for this award for her role in the film.  Since we are also told that *American Beauty* won Best Picture, we can infer that Bening did not win Best Actress.)
+**Answer-93:** Mystic River and Letters From Iwo Jima (Reasoning: Clint Eastwood has won the Best Picture and Best Director awards for the movie Unforgiven.  He was also nominated for the same awards for Million Dollar Baby. The only other movies listed in the context that he directed are Mystic River and Letters from Iwo Jima, so these are the movies he was nominated for, but did not win.)
+**Answer-94:** Grave of the Fireflies. (Reasoning:  We are told that *Grave of the Fireflies* was written by Akiyuki Nosaka and directed by Isao Takahata.  Every other Studio Ghibli movie listed in the text was made by either Miyazaki or Suzuki, and this movie is not listed as one of Suzuki's.)
+**Answer-95:** Play Misty For Me. (Reasoning: This question asks for the first movie Eastwood starred in that was not a Dirty Harry movie.  Of the Clint Eastwood movies listed in the context, Play Misty For Me was released in 1971, the same year as Dirty Harry, and is not listed as part of that franchise.)
+**Answer-96:** None. (Reasoning: The context states that Charlie Sheen starred in Major League, Major League II, and Major League: Back to the Minors. Therefore, all the Major League movies mentioned included Charlie Sheen.)
+**Answer-97:** Hellraiser: Revelations, Hellraiser: Judgment, and Hellraiser (2022). (Reasoning:  The context lists all the *Hellraiser* films in order, up to *Hellbound: Hellraiser II*.  This means that the movies made after these two must be the ones Doug Bradley did not appear in.)
+**Answer-98:** Hellraiser and Hellbound: Hellraiser II. (Reasoning: The Context provides release dates for both *Hellraiser* and *Hellbound: Hellraiser II*. Both movies were released before 2000.)
+**Answer-99:** The Nightmare Before Christmas. (Reasoning: We are given a list of Tim Burton movies, and asked which does not involve Johnny Deep.  The Nightmare Before Christmas is the only one not listed as starring Depp.) 
